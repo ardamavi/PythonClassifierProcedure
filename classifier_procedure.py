@@ -1,5 +1,5 @@
 # Arda Mavi
-from sklearn.externals import joblib
+from sklearn.externals import joblib # For saving classifier
 
 def getClassifier(dir):
     # Getting trained classifier:
